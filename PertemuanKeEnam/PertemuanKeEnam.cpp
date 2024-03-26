@@ -11,4 +11,3 @@ void input()
     cin >> bilB;
 }
 
-
